@@ -1,0 +1,12 @@
+accueil
+	-Page d'accueil
+
+
+A propos
+	-Fonctionnement
+	-Reversement
+	-Qui sommes nous?  
+
+
+Contact 
+	-Nous contacter
