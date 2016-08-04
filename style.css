@@ -9,7 +9,7 @@
 
 #menu-vertical li {
   position: relative;
-  background:#7FFF00; /* juste pour cacher le texte de la page en-dessous */
+  background:#FFF; /* juste pour cacher le texte de la page en-dessous */
 }
 
 #menu-vertical a {
@@ -27,3 +27,14 @@
   top: 0;
   left: 180px;
 }
+
+html
+{
+	background-color: #e6e6e6;
+}
+
+#Title
+{
+	color: #4dd2ff;
+}
+
